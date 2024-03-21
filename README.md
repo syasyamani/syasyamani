@@ -4,11 +4,10 @@
 
 
 <h3 align="left">Introduction:</h3>
-Hello, I'm Syasya Amani Imran Binti Alwi, a current student pursuing a Bachelor of Computer Science in Bioinformatics at the University Technology Malaysia, Johor Bahru, Malaysia. 
+<p>Hello, I'm Syasya Amani Imran Binti Alwi, a current student pursuing a Bachelor of Computer Science in Bioinformatics at the University Technology Malaysia, Johor Bahru, Malaysia </p>
 
 
-
-
+<p> 
 🌍 I'm from Kuala Lumpur, Malaysia. 
 
 📚 Enjoy reading. 
@@ -16,6 +15,7 @@ Hello, I'm Syasya Amani Imran Binti Alwi, a current student pursuing a Bachelor 
 🤝 Enthusiatic and dedicated person.
 
 ✉️  You can contact me at syasya@graduate.utm.my.
+</p>
 
 
 
