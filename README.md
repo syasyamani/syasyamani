@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![MasterHead](https://www.canva.com/design/DAGAHJNhz3k/3mhibpkTrEqI1Ns7HuYAeQ/view)](https://github.com/syasyamani/syasyamani/edit/main/README.md)
+![Brown Aesthetic Email header](https://github.com/syasyamani/syasyamani/assets/61147698/2e324250-ca14-4414-a132-fb0afc93835e)
+
 
 Hello, I'm Syasya Amani Imran Binti Alwi, a current student pursuing a Bachelor of Computer Science in Bioinformatics at the University Technology Malaysia, Johor Bahru, Malaysia. 
 
